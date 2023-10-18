@@ -1,6 +1,6 @@
 # Projects
 **1. Ranking web pages using various algorithms, including PageRank and HITS:**
-Page Ranking: The Process of Ordering web pages according to their importance and relevance to the desired search. All search engines use page ranking, with Google being the prime example, utilizing web graphs for page ranking. In this project, we delved into page ranking using algorithms such as PageRank and HITS (Hyperlink-Induced Topic Search) to rank web pages.
+Page Ranking is the Process of Ordering web pages according to their importance and relevance to the desired search. All search engines use page ranking, with Google being the prime example, utilizing web graphs for page ranking. In this project, we delved into page ranking using algorithms such as PageRank and HITS (Hyperlink-Induced Topic Search) to rank web pages.
 
 **2. Analysis of Recurring Patterns in Customer Shopping Using Apriori and FP-Growth:**
 Exploring methods for analyzing recurring patterns in customer shopping carts was the primary objective of this project. The goal was to extract frequent items and identify combinations of products frequently purchased together. To achieve this, algorithms such as Apriori and FP_Growth were employed.
