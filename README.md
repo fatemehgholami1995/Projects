@@ -8,7 +8,7 @@ Exploring methods for analyzing recurring patterns in customer shopping carts wa
 **3. Exploring Data Mining Algorithms for Detecting Fraudulent Credit Card Transactions:**
 An examination of various data mining algorithms for detecting fraudulent credit card transactions was conducted in this project. The objective was to identify fraudulent transactions within a dataset spanning multiple days. To achieve this, algorithms like Isolation Forest, Random Forest, and Decision Tree were employed to detect outliers in the data.
 
-**4. Clustered Health News: Analyzing Twitter Data for Insights and Discovering Trends in Healthcare:**
+**4. Clustered Health News, Analyzing Twitter Data for Insights and Discovering Trends in Healthcare:**
 During the investigation of the Health News in Twitter Dataset, several clustering algorithms were utilized, such as k-means, Spectral Clustering, Hierarchical Clustering, and DBSCAN. The appropriate number of clusters was determined using the Elbow and Silhouette methods. PCA and t-SNE techniques were employed for dimensionality reduction and data visualization.
 
 **5.Exploring Feature Selection Methods on Diabetes Dataset:**
